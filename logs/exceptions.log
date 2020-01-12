@@ -1,1 +1,6 @@
 2020-01-10 20:13:26.581 [main] ERROR  - Ошибка! java.lang.IllegalArgumentException: Неверный ввод!
+2020-01-12 12:02:07.901 [main] ERROR ExceptionLogger - Ошибка! java.lang.IllegalArgumentException: Неверный ввод!
+2020-01-12 12:02:11.477 [main] ERROR ExceptionLogger - Ошибка! java.lang.IllegalArgumentException: Неверный ввод!
+2020-01-12 12:02:12.598 [main] ERROR ExceptionLogger - Ошибка! java.lang.IllegalArgumentException: Неверный ввод!
+2020-01-12 12:02:13.379 [main] ERROR ExceptionLogger - Ошибка! java.lang.IllegalArgumentException: Неверный ввод!
+2020-01-12 12:02:14.053 [main] ERROR ExceptionLogger - Ошибка! java.lang.IllegalArgumentException: Неверный ввод!

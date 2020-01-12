@@ -21,10 +21,14 @@
         </File>
     </appenders>
     <loggers>
-        <root level="info">
-            <appender-ref ref="SearchFile" level="info"/>
-            <appender-ref ref="ExceptionFile" level="error"/>
+        <Logger name="WarnLogger" level="warn">
             <appender-ref ref="InputErrorsFile" level="warn"/>
-        </root>
+        </Logger>
+        <Logger name="InfoLogger" level="info">
+            <appender-ref ref="SearchFile" level="info"/>
+        </Logger>
+        <Logger name="ExceptionLogger" level="error">
+            <appender-ref ref="ExceptionFile" level="error"/>
+        </Logger>
     </loggers>
 </configuration>
